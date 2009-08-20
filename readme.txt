@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Tweet Chopper ===
 Contributors: kchoppin
 Donate link: http://www.kevinchoppin.co.uk/tweetchopper.htm
 Tags: twitter, widget, tweet, tweetchopper
