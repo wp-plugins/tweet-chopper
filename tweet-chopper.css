@@ -1,0 +1,53 @@
+#tweet_chopper
+{
+float: left;
+width: 100%;
+}
+
+#tweet_chopper p
+{
+float: left;
+width: auto;
+}
+
+#tweet_chopper h2
+{
+float: left;
+width: 100%;
+margin: 0px;
+padding: 0px;
+}
+
+#tweet_chopper h2 a
+{
+float: left;
+width: 100%;
+height: 20px;
+background-image: url(twitter.png);
+background-repeat: no-repeat;
+background-position: top left;
+text-indent: -10000px;
+font-size: 0.0em;
+}
+
+.tweet_chopper_tweet
+{
+float: left;
+width: 100%;
+border-bottom: 1px solid #c3c3c3;
+padding-bottom: 5px;
+}
+
+.tweet_chopper_left
+{
+float: left;
+width: 53px;
+padding: 5px 5px 5px 0px;
+}
+
+.tweet_chopper_date
+{
+float: left;
+width: 100%;
+text-align: right;
+}
