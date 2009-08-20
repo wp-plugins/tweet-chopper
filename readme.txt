@@ -4,7 +4,7 @@ Donate link: http://www.kevinchoppin.co.uk/tweetchopper.htm
 Tags: twitter, widget, tweet, tweetchopper
 Requires at least: 2.0.2
 Tested up to: 2.8.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 A very simple and basic widget that shows tweets for multiple authors and trends.
 
